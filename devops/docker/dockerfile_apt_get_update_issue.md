@@ -7,7 +7,7 @@ The apt-get update command is a command used to set up a linux distribution befo
 The apt-get update command keeps returning a hash sum mismatch error on some required packages to be downloaded 
 and then the build stops due to the error displaying the error below.
 
-```dotenv
+```bash
 #12 44.96 E: Some index files failed to download. They have been ignored, or old ones used instead.
 ```
 
